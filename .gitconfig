@@ -1,0 +1,9 @@
+[user]
+	email = changmina141217@gmail.com
+	name = JeonChangMin
+[core]
+	editor = vim
+	autocrlf = input
+	eol = lf
+[push]
+	default = simple

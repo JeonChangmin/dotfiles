@@ -10,9 +10,6 @@ alias python3='python3.8'
 alias pip='python3.8 -m pip'
 alias pip3='python3.8 -m pip'
 
-alias ls='exa -l -s type'
-alias la='exa -al -s type'
-
 alias ga='git add'
 alias gb='git branch'
 alias gc='git commit'

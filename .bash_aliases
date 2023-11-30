@@ -5,10 +5,9 @@ alias addc='adb disconnect'
 alias ads='adb shell'
 alias adk='adb kill-server'
 
-alias python='python3.8'
-alias python3='python3.8'
-alias pip='python3.8 -m pip'
-alias pip3='python3.8 -m pip'
+alias python=python3
+alias pip='python3 -m pip'
+alias pip3='python3 -m pip'
 
 alias ga='git add'
 alias gb='git branch'

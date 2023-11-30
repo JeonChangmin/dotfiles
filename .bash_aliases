@@ -5,7 +5,7 @@ alias addc='adb disconnect'
 alias ads='adb shell'
 alias adk='adb kill-server'
 
-alias python=python3
+alias python='python3'
 alias pip='python3 -m pip'
 alias pip3='python3 -m pip'
 

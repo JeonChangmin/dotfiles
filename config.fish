@@ -35,10 +35,9 @@ abbr -ag addc adb disconnect
 abbr -ag ads adb shell
 abbr -ag adk adb kill-server
 
-abbr -ag python python3.8
-abbr -ag python3 python3.8
-abbr -ag pip python3.8 -m pip
-abbr -ag pip3 python3.8 -m pip
+abbr -ag python python3
+abbr -ag pip python3 -m pip
+abbr -ag pip3 python3 -m pip
 
 abbr -ag ls exa -l -s type
 abbr -ag la exa -al -s type

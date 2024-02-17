@@ -58,3 +58,9 @@ abbr -ag gloga git log --all --graph --oneline --decorate
 
 abbr -ag tt tmux attach -t
 abbr -ag tl tmux ls
+
+abbr -ag add adb devices
+abbr -ag adc adb connect
+abbr -ag adp adb pair
+abbr -ag adk adb kill-server
+abbr -ag addc adb disconnect

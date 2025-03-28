@@ -1,5 +1,4 @@
 alias python='python3'
-alias python3='python3'
 alias pip='python3 -m pip'
 alias pip3='python3 -m pip'
 

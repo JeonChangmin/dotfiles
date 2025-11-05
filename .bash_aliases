@@ -2,6 +2,7 @@ alias python='python3'
 alias pip='python3 -m pip'
 alias pip3='python3 -m pip'
 
+alias l='eza -l -s type'
 alias ls='eza -l -s type'
 alias la='eza -al -s type'
 
